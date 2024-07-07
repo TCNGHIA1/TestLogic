@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestLogic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name">[username]</string>
+    <string name="user_location">[location]</string>
+    <string name="about">About</string>
+    <string name="user_bio">[bio]</string>
+    <string name="status">Status</string>
+    <string name="_0">0</string>
+    <string name="public_repo">PUBLIC REPO</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+    <string name="user_url">[url]</string>
+</resources>
